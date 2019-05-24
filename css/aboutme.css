@@ -1,0 +1,20 @@
+img{
+    width: 400px;
+    height: 300px;
+   
+}
+table{
+    display: flex;
+
+}
+article{
+    text-align: center;
+        margin: 5px 0px;
+        
+}
+body{
+    background-image: url(../photo/giphy.gif);
+  color: blue;
+  
+
+}
