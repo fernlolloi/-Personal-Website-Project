@@ -1,4 +1,27 @@
 body{
-    background: black;
-    color: #FFF;
+    background: rgb(141, 233, 149);
+    color: rgb(26, 8, 43);
+    margin: 0 auto;
+
 }
+section{
+    margin: 5px 0px;
+    padding: 20px 10px 20px 10px;
+    border: 1px;
+   
+}
+img{
+    width: 460px;
+    height: 220;
+;
+}
+main{
+
+        display: grid;     
+   
+}
+article {
+   
+ grid-auto-rows:auto;
+}
+
