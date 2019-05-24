@@ -1,4 +1,22 @@
 body{
-    background: rgba(241, 138, 178, 0.267);
+   background-image: url(../photo/wcl.jpg);
 
+}
+footer{
+    text-align: center;
+    
+}
+main{
+    text-align: center;
+}
+header{
+    text-align: left;
+   
+}
+aside{
+margin: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
 }
