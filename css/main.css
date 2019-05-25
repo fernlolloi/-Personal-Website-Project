@@ -9,6 +9,7 @@ section{
     margin: 10px 0px;
     border: 3px;
     text-align: center;
+    box-shadow: 10px 5px 10px 5px;
    
 }
 img{
@@ -18,7 +19,7 @@ img{
 }
 main{
 
-        display: grid;   
+         
         text-align: center;
    
 }
@@ -28,4 +29,8 @@ article {
 }
 table{
     text-align: center;
+}
+header{
+    color: green;
+    
 }

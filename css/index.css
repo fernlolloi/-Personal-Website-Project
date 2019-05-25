@@ -1,10 +1,14 @@
 body{
    background-image: url(../photo/wcl.jpg);
+   display: grid;
 
 }
 footer{
     text-align: center;
     
+}
+article{
+    color: red;
 }
 main{
     text-align: center;
@@ -19,4 +23,14 @@ margin: 30px;
 img{
     width: 200px;
     height: 200px;
+}
+header{
+    background: yellow;
+    text-align: center;
+    box-shadow: 10px 5px 10px 5px;
+}
+aside{
+    background: rgb(245, 245, 121);
+    margin: 10px;
+   
 }
