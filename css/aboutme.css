@@ -15,11 +15,14 @@ article{
 body{
     background-image: url(../photo/giphy.gif);
   color: blue;
+  font-family: 'Courier New', Courier, monospace;
 }
 section{
     margin: 0px 1px;
     border: 2px solid #FFF;
     border-radius: 1000px;
-  
     box-shadow: 5px 5px 0px 0px rgb(238, 185, 185);
+    font-family:'Courier New', Courier, monospace;
+    font-kerning: auto;
 }
+    

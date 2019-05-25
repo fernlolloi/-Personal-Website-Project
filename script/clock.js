@@ -51,7 +51,7 @@
         if (Math.floor((minutes / 60)) != 0) { hours += 1; minutes %= 60; }
     }
 
-    //draw or redraw Clock after time refresh function is called
+    //draw or redraw Clock after time refresh function is calle
     function drawClock() {
         drawClockBackground();
         drawSecHand();

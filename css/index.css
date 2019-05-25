@@ -1,6 +1,7 @@
 body{
    background-image: url(../photo/wcl.jpg);
    display: grid;
+   font-family: fantasy;
 
 }
 footer{
@@ -9,32 +10,35 @@ footer{
 }
 article{
     color: red;
-background: rgb(236, 236, 96);
+
+font-family: fantasy;
 }
 main{
     text-align: center;
+    font-family: fantasy;
 }
 header{
     text-align: left;
-   
+   font-family: fantasy;
 }
 aside{
 margin: 30px;
 }
 img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 header{
-    background: rgb(247, 247, 53);
+
     text-align: center;
     box-shadow: 10px 5px 10px 5px;
 }
 aside{
     background: rgb(245, 245, 121);
     margin: 10px;
-   
+    
 }
 button{
     color: red;
+    font-family: fantasy;
 }
