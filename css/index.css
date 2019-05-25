@@ -9,6 +9,7 @@ footer{
 }
 article{
     color: red;
+background: rgb(236, 236, 96);
 }
 main{
     text-align: center;
@@ -25,7 +26,7 @@ img{
     height: 200px;
 }
 header{
-    background: yellow;
+    background: rgb(247, 247, 53);
     text-align: center;
     box-shadow: 10px 5px 10px 5px;
 }
@@ -33,4 +34,7 @@ aside{
     background: rgb(245, 245, 121);
     margin: 10px;
    
+}
+button{
+    color: red;
 }
